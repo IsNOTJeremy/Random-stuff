@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1535841794 source:c:\users\jeffrey\desktop\programing\projects\monika\monika\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<shlobj.h>
+	<exdisp.h>
+	<time.h>
+	<cstdlib>
+	<string>
+	<sstream>
+	<mmsystem.h>
+	<MMSystem.h>
+
